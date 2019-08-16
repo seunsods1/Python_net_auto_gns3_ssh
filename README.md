@@ -1,5 +1,5 @@
 TITLE:
-#Python_net_auto_gns3_ssh
+Python_net_auto_gns3_ssh
 
 OBJECTIVES:
 This project demonstrates how python can be used to automate the configuration of various network devices concurrently in a live network by automating a couple network devices in gns3.
