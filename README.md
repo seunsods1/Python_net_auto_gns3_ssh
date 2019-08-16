@@ -1,10 +1,10 @@
 TITLE:
 Python_net_auto_gns3_ssh
 
-OBJECTIVES:
+Objective:
 This project demonstrates how python can be used to automate the configuration of various network devices concurrently in a live network by automating a couple network devices in gns3.
 
-TOOLS USED:
+Tools Used:
 software - Gns3, Programming Language - Python 3.7.2, Key Python Libraries - Paramiko, Threading, Subprocess, and Time.
 
 Procedure:
